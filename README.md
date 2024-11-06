@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/b_pramod941?logo=twitter&style=for-the-badge" alt="b_pramod941" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Node.js and MongoDB**
+- 🌱 I’m currently learning **DSA , Node.js , Express.js and MongoDB**
 
-- 💬 Ask me about **MERN stack and**
+- 💬 Ask me about **MERN stack and DSA**
 
 - 📫 How to reach me **cse.pramod.b2@gmail.com**
 
