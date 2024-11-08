@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA , Node.js and MongoDB**
 
-- 💬 Ask me about **MERN stack and**
+- 💬 Ask me about **MERN stack and DSA**
 
 - 📫 How to reach me **cse.pramod.b2@gmail.com**
 
