@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/b_pramod941?logo=twitter&style=for-the-badge" alt="b_pramod941" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Backend Development in JS**
+- 🌱 I’m currently learning **DSA , Backend Development(Node.js)**
 
 - 💬 Ask me about **MERN stack and DSA**
 
 - 📫 How to reach me **cse.pramod.b2@gmail.com**
 
-- ⚡ Fun fact **I love math and solving problems**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/b_pramod941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_pramod941" height="30" width="40" /></a>
+<a href="https://x.com/pramod_belagali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_pramod941" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramodbelagali49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodbelagali49" height="30" width="40" /></a>
 </p>
 
