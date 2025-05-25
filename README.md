@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbelagali49&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbelagali49" /> </p>
 
-<p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/b_pramod941?logo=twitter&style=for-the-badge" alt="b_pramod941" /></a> </p>
+<p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_belagali?logo=twitter&style=for-the-badge" alt="pramod_belagali" /></a> </p>
 
 - 🌱 I’m currently learning **DSA , Backend Development(Node.js)**
 
