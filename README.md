@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod B Belagali</h1>
-<h3 align="center">Passionate full stack developer and computer network enthusiast</h3>
+<h3 align="center">Passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbelagali49&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbelagali49" /> </p>
 
