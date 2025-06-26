@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_belagali?logo=twitter&style=for-the-badge" alt="pramod_belagali" /></a> </p>
 
-- 🌱 Software developer**
+-  Software developer
 
-- 💬 Ask me about **MERN stack and DSA**
+-  Ask me about **MERN stack and DSA**
 
-- 📫 How to reach me **cse.pramod.b2@gmail.com**
+-  How to reach me **cse.pramod.b2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
