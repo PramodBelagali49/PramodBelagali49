@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/b_pramod941" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_belagali?logo=twitter&style=for-the-badge" alt="pramod_belagali" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Backend Development(Node.js)**
+- 🌱 Software developer**
 
 - 💬 Ask me about **MERN stack and DSA**
 
